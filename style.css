@@ -84,7 +84,7 @@ nav {
 }
 
 .subsite {
-    text-align: center;
+    text-align: center; 
 }
 
 .row {
@@ -97,9 +97,9 @@ nav {
 .button {
     background-color: rgb(39, 20, 20);
     color:#fff; 
-    display: table; 
-    margin-top: 40px; 
-    padding: 10px; 
+    display: inline-flex;  
+    margin-top: 20px; 
+    padding: 10px;
     text-decoration: none;
     text-transform: uppercase;
 
